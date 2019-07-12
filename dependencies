@@ -1,0 +1,2 @@
+docx2txt
+For anaconda : conda install -c conda-forge docx2txt 
